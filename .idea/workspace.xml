@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4767a0d5-3a67-4ce3-bfa5-c410dda35b4b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-ING-2021/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-ING-2021/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-ING-2021/practice/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-ING-2021/practice/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-ING-2021/practice/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-ING-2021/practice/TwoSum.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
