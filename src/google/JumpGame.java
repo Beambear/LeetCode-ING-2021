@@ -1,6 +1,6 @@
-package cs789.project;
+package google;
 
-public class ProjectDriver {
+public class JumpGame {
     public boolean canJump(int[] nums) {
         if(nums.length ==1)
         {

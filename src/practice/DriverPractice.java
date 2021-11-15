@@ -1,6 +1,6 @@
 package practice;
 
-public class Driver {
+public class DriverPractice {
 
     public void twoSumDriver(){
         TwoSum run = new TwoSum();
