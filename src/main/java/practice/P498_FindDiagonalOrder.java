@@ -1,6 +1,6 @@
 package practice;
 //给你一个大小为 m x n 的矩阵 mat ，请以对角线遍历的顺序，用一个数组返回这个矩阵中的所有元素。
-public class FindDiagonalOrder {
+public class P498_FindDiagonalOrder {
 
     // x+y = n
     // n = 2,3,4,5......2*x

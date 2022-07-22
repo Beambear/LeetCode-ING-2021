@@ -11,7 +11,7 @@ package practice;
 
 import java.util.Arrays;
 
-public class DuplicateZeros {
+public class P1089_DuplicateZeros {
 
     //原地修改+后移
     public void duplicateZero(int[] arr){

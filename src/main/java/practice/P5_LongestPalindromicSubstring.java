@@ -1,6 +1,6 @@
 package practice;
 
-public class LongestPalindromicSubstring {
+public class P5_LongestPalindromicSubstring {
 
     //center expand 02
 

@@ -13,13 +13,12 @@ package practice;
 
 
 import java.util.LinkedList;
-import java.util.List;
 import java.util.Queue;
 
 import static java.lang.System.arraycopy;
 
 
-public class HeightChecker {
+public class P1051_HeightChecker {
 
 
     //////////////////////////////////////

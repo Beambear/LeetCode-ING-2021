@@ -2,7 +2,7 @@ package practice;
 
 import java.util.ArrayList;
 
-public class TwoSum {
+public class P1_TwoSum {
     public void test(){
         int[] nums= {1, 3, 5, 9, 11, 15, 21, 34, 50, 66, 99};
         int target = 26;
