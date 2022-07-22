@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4767a0d5-3a67-4ce3-bfa5-c410dda35b4b" name="Changes" comment="Junit added">
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P1051_HeightCheckerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P1089_DuplicateZerosTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P1_TwoSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P498_FindDiagonalOrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P5_LongestPalindromicSubstringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P9_PalindromeNumberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-ING-2021/driver/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-ING-2021/google/DriverGoogle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-ING-2021/google/JumpGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-ING-2021/practice/DriverPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-ING-2021/practice/HeightChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-ING-2021/practice/TwoSum.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/driver/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/driver/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/P1051_HeightChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/P1051_HeightChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/P1_TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/P1_TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/P1089DuplicateZerosTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/P9_PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/P9_PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/practice/P9_PalindromeNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/P9_PalindromeNumberTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,37 +73,7 @@
       <recent name="main.java.practice" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.P1089_DuplicateZerosTest.duplicateZero">
-    <configuration name="P1051_HeightCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode-ING-2021" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.P1051_HeightCheckerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P1089_DuplicateZerosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode-ING-2021" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.P1089_DuplicateZerosTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.P9_PalindromeNumberTest.isPalindrome1">
     <configuration name="P1089_DuplicateZerosTest.duplicateZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-ING-2021" />
       <extension name="coverage">
@@ -133,7 +90,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1_TwoSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P9_PalindromeNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-ING-2021" />
       <extension name="coverage">
         <pattern>
@@ -142,13 +99,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.P1_TwoSumTest" />
+      <option name="MAIN_CLASS_NAME" value="practice.P9_PalindromeNumberTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P498_FindDiagonalOrderTest.findDiagonalOrderTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P9_PalindromeNumberTest.isPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-ING-2021" />
       <extension name="coverage">
         <pattern>
@@ -157,8 +114,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.P498_FindDiagonalOrderTest" />
-      <option name="METHOD_NAME" value="findDiagonalOrderTest1" />
+      <option name="MAIN_CLASS_NAME" value="practice.P9_PalindromeNumberTest" />
+      <option name="METHOD_NAME" value="isPalindrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P9_PalindromeNumberTest.isPalindrome1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode-ING-2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice" />
+      <option name="MAIN_CLASS_NAME" value="practice.P9_PalindromeNumberTest" />
+      <option name="METHOD_NAME" value="isPalindrome1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P9_PalindromeNumberTest.isPalindrome2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode-ING-2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice" />
+      <option name="MAIN_CLASS_NAME" value="practice.P9_PalindromeNumberTest" />
+      <option name="METHOD_NAME" value="isPalindrome2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -166,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.P9_PalindromeNumberTest.isPalindrome1" />
+        <item itemvalue="JUnit.P9_PalindromeNumberTest" />
+        <item itemvalue="JUnit.P9_PalindromeNumberTest.isPalindrome2" />
+        <item itemvalue="JUnit.P9_PalindromeNumberTest.isPalindrome" />
         <item itemvalue="JUnit.P1089_DuplicateZerosTest.duplicateZero" />
-        <item itemvalue="JUnit.P1089_DuplicateZerosTest" />
-        <item itemvalue="JUnit.P1051_HeightCheckerTest" />
-        <item itemvalue="JUnit.P498_FindDiagonalOrderTest.findDiagonalOrderTest1" />
-        <item itemvalue="JUnit.P1_TwoSumTest" />
       </list>
     </recent_temporary>
   </component>

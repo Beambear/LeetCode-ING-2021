@@ -9,7 +9,7 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-	    Main driver = new Main();
-
+        int a = 5567;
+        System.out.println(String.valueOf(a).length());
     }
 }
