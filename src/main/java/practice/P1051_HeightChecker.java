@@ -24,7 +24,7 @@ public class P1051_HeightChecker {
     //////////////////////////////////////
     //insert smallest number into queue
     //remove queue VS heights[i]
-    public int heightChecker(int[] heights){
+    public int heightCheckerVer1(int[] heights){
     Queue<Integer> expected = new LinkedList<>();
     int currnum=0;
     while (expected.size() != heights.length){
@@ -52,7 +52,7 @@ public class P1051_HeightChecker {
     // return unmatched indices
     //
     // PASSED
-    public int heightChecker2(int[] heights){
+    public int heightCheckerVer2(int[] heights){
         int[] expected = new int[heights.length];
         arraycopy(heights,0,expected,0,heights.length);
         bubbleSort(expected);
