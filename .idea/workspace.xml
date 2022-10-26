@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4767a0d5-3a67-4ce3-bfa5-c410dda35b4b" name="Changes" comment="Problem 9 completed, 2 ways">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P1184_DistanceBetweenBusStops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P1184_DistanceBetweenBusStopsTest.java" afterDir="false" />
+    <list default="true" id="4767a0d5-3a67-4ce3-bfa5-c410dda35b4b" name="Changes" comment="Problem 1194 solved">
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P1480_RunningSumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P278_FirstBadVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P704_BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P724_FindPivotIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P1480_RunningSumOfArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P704_BinarySearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P724_FindPivotIndexTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practice/P9_PalindromeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practice/P9_PalindromeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/practice/P9_PalindromeNumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/practice/P9_PalindromeNumberTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice/P1194_DistanceBetweenBusStops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/practice/P1194_DistanceBetweenBusStopsTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +79,7 @@
       <recent name="main.java.practice" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.P724_FindPivotIndexTest">
     <configuration name="P1184_DistanceBetweenBusStopsTest.distanceBetweenBusStops" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-ING-2021" />
       <extension name="coverage">
@@ -91,7 +96,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P9_PalindromeNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P1480_RunningSumOfArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-ING-2021" />
       <extension name="coverage">
         <pattern>
@@ -100,13 +105,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.P9_PalindromeNumberTest" />
+      <option name="MAIN_CLASS_NAME" value="practice.P1480_RunningSumOfArrayTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P9_PalindromeNumberTest.isPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P704_BinarySearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-ING-2021" />
       <extension name="coverage">
         <pattern>
@@ -115,14 +120,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.P9_PalindromeNumberTest" />
-      <option name="METHOD_NAME" value="isPalindrome" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="practice.P704_BinarySearchTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P9_PalindromeNumberTest.isPalindrome1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P724_FindPivotIndexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-ING-2021" />
       <extension name="coverage">
         <pattern>
@@ -131,14 +135,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.P9_PalindromeNumberTest" />
-      <option name="METHOD_NAME" value="isPalindrome1" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="practice.P724_FindPivotIndexTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P9_PalindromeNumberTest.isPalindrome2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P724_FindPivotIndexTest.pivotIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-ING-2021" />
       <extension name="coverage">
         <pattern>
@@ -147,8 +150,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.P9_PalindromeNumberTest" />
-      <option name="METHOD_NAME" value="isPalindrome2" />
+      <option name="MAIN_CLASS_NAME" value="practice.P724_FindPivotIndexTest" />
+      <option name="METHOD_NAME" value="pivotIndex" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.P724_FindPivotIndexTest" />
+        <item itemvalue="JUnit.P724_FindPivotIndexTest.pivotIndex" />
+        <item itemvalue="JUnit.P1480_RunningSumOfArrayTest" />
+        <item itemvalue="JUnit.P704_BinarySearchTest" />
         <item itemvalue="JUnit.P1184_DistanceBetweenBusStopsTest.distanceBetweenBusStops" />
-        <item itemvalue="JUnit.P9_PalindromeNumberTest.isPalindrome1" />
-        <item itemvalue="JUnit.P9_PalindromeNumberTest" />
-        <item itemvalue="JUnit.P9_PalindromeNumberTest.isPalindrome2" />
-        <item itemvalue="JUnit.P9_PalindromeNumberTest.isPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +198,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658665656335</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Problem 1194 solved">
+      <created>1658670256087</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658670256087</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Problem 1194 solved">
+      <created>1658670268164</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658670268164</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +232,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Junit added" />
     <MESSAGE value="Problem 9 completed, 2 ways" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 9 completed, 2 ways" />
+    <MESSAGE value="Problem 1194 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 1194 solved" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
