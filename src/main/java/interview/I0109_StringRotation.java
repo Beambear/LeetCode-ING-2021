@@ -55,12 +55,12 @@ public class I0109_StringRotation {
             int curPosition= positions.get(i);
 
             while(count < n){
-
                 if(curPosition+count==n){
                     curPosition= -count;
                 }
+
                 if(s1.charAt(count)!=s2.charAt(curPosition+count)){
-                    continue;
+                    break;
                 }
                 count++;
                 if(count ==n){
@@ -69,5 +69,14 @@ public class I0109_StringRotation {
             }
         }
         return false;
+    }
+
+    /////////////////////////
+    //思路：
+    //s2由s1轮转后获得，那么s1+s1 形成的2s1中必然包含完整的s2
+    //判断2s1中是否有s2即可
+    //////////////
+    public boolean isFlipedStringB(String s1, String s2) {
+        return s1.length() == s2.length() && (s1 + s1).contains(s2);
     }
 }

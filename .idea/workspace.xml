@@ -5,22 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4767a0d5-3a67-4ce3-bfa5-c410dda35b4b" name="Changes" comment="Problem 1194 solved">
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0101_IsUniqueChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0102_CheckPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0103_StringToUrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0104_PalindromePermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0105_OneAway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0106_CompressString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0107_RotateMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0108_ZeroMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0109_StringRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P189_RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P977_SquaresOfASortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P189_RotateArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P977_SquaresOfASortedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0201_RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0202_kthNodeFromEndOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0203_DeleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0204_PartitionList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0205_SumLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0206_PalindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0207_IntersectionOfTwoLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0208_LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P2357_MakeArrayZeroBySubtractingEqualAmounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P2373_LargestLocalValuesInAMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/interview/I0109_StringRotationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practice/P724_FindPivotIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practice/P724_FindPivotIndex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/practice/P724_FindPivotIndexTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/practice/P724_FindPivotIndexTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interview/I0109_StringRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview/I0109_StringRotation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,21 +79,22 @@
       <recent name="google" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="interview" />
       <recent name="practice" />
       <recent name="main.java.practice" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.P189_RotateArrayTest">
-    <configuration name="P1480_RunningSumOfArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.I0109_StringRotationTest">
+    <configuration name="I0109_StringRotationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-ING-2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="interview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.P1480_RunningSumOfArrayTest" />
+      <option name="PACKAGE_NAME" value="interview" />
+      <option name="MAIN_CLASS_NAME" value="interview.I0109_StringRotationTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -164,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.I0109_StringRotationTest" />
         <item itemvalue="JUnit.P189_RotateArrayTest" />
         <item itemvalue="JUnit.P977_SquaresOfASortedArrayTest" />
         <item itemvalue="JUnit.P724_FindPivotIndexTest" />
         <item itemvalue="JUnit.P724_FindPivotIndexTest.pivotIndex" />
-        <item itemvalue="JUnit.P1480_RunningSumOfArrayTest" />
       </list>
     </recent_temporary>
   </component>
