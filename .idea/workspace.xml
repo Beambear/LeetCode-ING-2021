@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4767a0d5-3a67-4ce3-bfa5-c410dda35b4b" name="Changes" comment="Problem 1194 solved">
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0201_RemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0202_kthNodeFromEndOfList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0203_DeleteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0204_PartitionList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0205_SumLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0206_PalindromeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0207_IntersectionOfTwoLinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0208_LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P2357_MakeArrayZeroBySubtractingEqualAmounts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P2373_LargestLocalValuesInAMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interview/I0109_StringRotationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0301_ThreeInOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0302_MinStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interview/I0109_StringRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview/I0109_StringRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interview/I0208_LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview/I0208_LinkedListCycle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

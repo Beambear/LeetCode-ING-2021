@@ -37,7 +37,7 @@ public class I0208_LinkedListCycle {
 
     /**
      * Chat GPT 快慢针。
-     * 具体没看到，leetcode解题里有
+     * 具体没看懂，leetcode解题里有
      */
     public ListNode detectCycleB(ListNode head) {
         ListNode slow = head, fast = head;
