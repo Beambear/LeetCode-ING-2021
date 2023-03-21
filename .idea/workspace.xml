@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4767a0d5-3a67-4ce3-bfa5-c410dda35b4b" name="Changes" comment="Problem 1194 solved">
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0301_ThreeInOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0302_MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0303_StackOfPlates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0304ImplementQueueUsingStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0305_SortOfStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0306_AnimalShelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0401_RouteBetweenNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P2288_ApplyDiscountToPrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P2_AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P3_LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P427_ConstructQuadTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P4_MedianOfTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P688_KnightProbabilityInChessboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P707_DesignLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interview/I0208_LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview/I0208_LinkedListCycle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
