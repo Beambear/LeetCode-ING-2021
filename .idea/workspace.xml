@@ -5,19 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4767a0d5-3a67-4ce3-bfa5-c410dda35b4b" name="Changes" comment="Problem 1194 solved">
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0303_StackOfPlates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0304ImplementQueueUsingStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0305_SortOfStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0306_AnimalShelter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0401_RouteBetweenNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P2288_ApplyDiscountToPrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P2_AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P3_LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P427_ConstructQuadTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P4_MedianOfTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P688_KnightProbabilityInChessboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P707_DesignLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0402_MinimumHeightTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0403_ListOfDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0404_CheckBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0405_LegalBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0406_Successor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0408_FisrtCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P1733_MinimumNumberOfPeopletoTeach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interview/I0401_RouteBetweenNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview/I0401_RouteBetweenNodes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
