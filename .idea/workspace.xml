@@ -5,16 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4767a0d5-3a67-4ce3-bfa5-c410dda35b4b" name="Changes" comment="Problem 1194 solved">
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0402_MinimumHeightTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0403_ListOfDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0404_CheckBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0405_LegalBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0406_Successor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0408_FisrtCommonAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P1733_MinimumNumberOfPeopletoTeach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/driver/taowa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0409_BSTSequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0410_CheckSubtree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0501_InsertIntoBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview/I0503_ReverseBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P1023_CamelcaseMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P1140_StoneGameII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P115_DistinctSubsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P1339_MaximumProductOfSplittedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P1372_LongestZigzagPathInABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P1448_CountGoodNodesInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P1807_EvaluateTheBracketPairsOfAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P198_HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P215_KthLargestElementInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P485_MaxConsecutiveOnesI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P560_SubArraySumEqualsK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P877_StoneGameI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P908_SmallestRangeI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P910_SmallestRangeII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/P912_SortAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sharedExp/Antra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P2024_MaximizeTheConfusionOfAnExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P2024_MaximizeTheConfusionOfAnExamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P2506_CountPairsOfSimilarStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P344_ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P771_JewelsAndStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/sharedExp/AntraTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interview/I0401_RouteBetweenNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview/I0401_RouteBetweenNodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/driver/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/driver/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interview/I0408_FisrtCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview/I0408_FirstCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/driver/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/driver/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interview/I0109_StringRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interview/I0109_StringRotation.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,74 +98,77 @@
       <recent name="google" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="interview" />
+      <recent name="sharedExp" />
       <recent name="practice" />
+      <recent name="interview" />
       <recent name="main.java.practice" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.I0109_StringRotationTest">
-    <configuration name="I0109_StringRotationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AntraTest.testFindTwoLargest">
+    <configuration name="AntraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-ING-2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.*" />
+          <option name="PATTERN" value="sharedExp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="interview" />
-      <option name="MAIN_CLASS_NAME" value="interview.I0109_StringRotationTest" />
+      <option name="PACKAGE_NAME" value="sharedExp" />
+      <option name="MAIN_CLASS_NAME" value="sharedExp.AntraTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P189_RotateArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AntraTest.charMapAndCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-ING-2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="sharedExp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.P189_RotateArrayTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P724_FindPivotIndexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode-ING-2021" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.P724_FindPivotIndexTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P724_FindPivotIndexTest.pivotIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode-ING-2021" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.P724_FindPivotIndexTest" />
-      <option name="METHOD_NAME" value="pivotIndex" />
+      <option name="PACKAGE_NAME" value="sharedExp" />
+      <option name="MAIN_CLASS_NAME" value="sharedExp.AntraTest" />
+      <option name="METHOD_NAME" value="charMapAndCount" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P977_SquaresOfASortedArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AntraTest.reverseString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode-ING-2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sharedExp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sharedExp" />
+      <option name="MAIN_CLASS_NAME" value="sharedExp.AntraTest" />
+      <option name="METHOD_NAME" value="reverseString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AntraTest.testFindTwoLargest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode-ING-2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sharedExp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sharedExp" />
+      <option name="MAIN_CLASS_NAME" value="sharedExp.AntraTest" />
+      <option name="METHOD_NAME" value="testFindTwoLargest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P2024_MaximizeTheConfusionOfAnExamTest.maxConsecutiveAnswersGPT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode-ING-2021" />
       <extension name="coverage">
         <pattern>
@@ -151,19 +177,20 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.P977_SquaresOfASortedArrayTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="practice.P2024_MaximizeTheConfusionOfAnExamTest" />
+      <option name="METHOD_NAME" value="maxConsecutiveAnswersGPT" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.I0109_StringRotationTest" />
-        <item itemvalue="JUnit.P189_RotateArrayTest" />
-        <item itemvalue="JUnit.P977_SquaresOfASortedArrayTest" />
-        <item itemvalue="JUnit.P724_FindPivotIndexTest" />
-        <item itemvalue="JUnit.P724_FindPivotIndexTest.pivotIndex" />
+        <item itemvalue="JUnit.AntraTest.testFindTwoLargest" />
+        <item itemvalue="JUnit.AntraTest.reverseString" />
+        <item itemvalue="JUnit.AntraTest" />
+        <item itemvalue="JUnit.AntraTest.charMapAndCount" />
+        <item itemvalue="JUnit.P2024_MaximizeTheConfusionOfAnExamTest.maxConsecutiveAnswersGPT" />
       </list>
     </recent_temporary>
   </component>
